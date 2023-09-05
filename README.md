@@ -2,7 +2,7 @@
 
 # 🦚 Next Starter Peacock
 
-Peacock is a NextJS portfolio Starter for software engineers and designers. Showcase your awesome work and build personal sites you're proud of.
+Peacock is a NextJS portfolio Starter for software engineers and designers. Showcase your awesome work and build personal sites you're proud of..
 
 ## Features
 
